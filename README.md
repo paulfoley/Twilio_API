@@ -1,4 +1,4 @@
-# twilio-python
+# Twilio API Python
 
 [![Build Status](https://secure.travis-ci.org/twilio/twilio-python.png?branch=master)](http://travis-ci.org/twilio/twilio-python)
 
